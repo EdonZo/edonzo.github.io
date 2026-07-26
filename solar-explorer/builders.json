@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-04T12:00:00Z",
+  "date": "2026-07-04",
+  "clusters": [
+    {
+      "id": "more-moons",
+      "title": "More moons to fly to",
+      "emoji": "🌙",
+      "status": "building",
+      "explorerCount": 41,
+      "summary": "Land on the big moons of Jupiter and Saturn — Europa's ice, Titan's orange sky."
+    },
+    {
+      "id": "rockets-live",
+      "title": "Watch real rockets launch",
+      "emoji": "🚀",
+      "status": "considered",
+      "explorerCount": 28,
+      "summary": "A launch pad you can visit, with today's real missions lifting off."
+    },
+    {
+      "id": "draw-constellations",
+      "title": "Draw the constellations",
+      "emoji": "✨",
+      "status": "considered",
+      "explorerCount": 19,
+      "summary": "Connect the stars into the pictures people have seen for thousands of years."
+    },
+    {
+      "id": "day-night-earth",
+      "title": "See day and night on Earth",
+      "emoji": "🌍",
+      "status": "shipped",
+      "explorerCount": 63,
+      "summary": "Earth now turns with a real sunrise line — find where it's morning right now."
+    },
+    {
+      "id": "creatures-everywhere",
+      "title": "Animals at every place",
+      "emoji": "🦁",
+      "status": "building",
+      "explorerCount": 37,
+      "summary": "A living animal waiting at each spot on Earth you drill into."
+    },
+    {
+      "id": "explore-together",
+      "title": "Explore with a friend",
+      "emoji": "🤝",
+      "status": "considered",
+      "explorerCount": 22,
+      "summary": "Share a little tour you made so someone else can follow your path."
+    }
+  ]
+}
