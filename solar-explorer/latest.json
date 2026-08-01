@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-31T08:11:39.873Z",
-  "date": "2026-07-31",
+  "generatedAt": "2026-08-01T07:39:24.402Z",
+  "date": "2026-08-01",
   "entries": [
     {
       "id": "eonet-EONET_21965",
@@ -57,16 +57,16 @@
     },
     {
       "id": "ll2-e7e55b53-6f69-4c22-9fc5-df00df653a3f",
-      "date": "2026-08-01T02:00:00Z",
+      "date": "2026-08-01T03:08:43Z",
       "category": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-52",
-      "summary": "Lifts off Aug 1, 02:00 UTC from Vandenberg SFB, CA, USA.",
+      "summary": "Lifts off Aug 1, 03:08 UTC from Vandenberg SFB, CA, USA.",
       "lat": 34.632,
       "lon": -120.611,
       "bodyId": "earth",
       "sourceName": "Launch Library 2",
       "sourceUrl": "https://spacelaunchnow.me/launch/falcon-9-block-5-starlink-group-17-52",
-      "startsAt": "2026-08-01T02:00:00Z",
+      "startsAt": "2026-08-01T03:08:43Z",
       "kidSuitable": true
     },
     {
@@ -98,42 +98,42 @@
       "kidSuitable": true
     },
     {
-      "id": "otd-0731-1992-0",
-      "date": "2026-07-31T08:11:37.789Z",
+      "id": "otd-0801-1984-0",
+      "date": "2026-08-01T07:39:24.273Z",
       "category": "on-this-day",
-      "title": "1992: Space Shuttle program: Atlantis is launched on STS-46 to deploy the European Retrievable Carrier and the Tethered Satellite System.",
-      "summary": "The Space Shuttle program was the fourth human spaceflight program carried out by the U.S. National Aeronautics and Space Administration (NASA), which accomplished routine transportation for Earth-to-orbit crew and cargo from 1981 to 2011.",
+      "title": "1984: Commercial peat-cutters discover the preserved bog body of a man, called Lindow Man, at Lindow Moss, Cheshire, England.",
+      "summary": "Peat is an accumulation of partially decayed vegetation or organic matter. It is unique to natural areas called peatlands, bogs, mires, moors, or muskegs.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peat",
       "kidSuitable": true
     },
     {
-      "id": "otd-0731-1971-1",
-      "date": "2026-07-31T08:11:37.789Z",
+      "id": "otd-0801-1965-1",
+      "date": "2026-08-01T07:39:24.273Z",
       "category": "on-this-day",
-      "title": "1971: Apollo program: the Apollo 15 astronauts become the first to ride in a lunar rover.",
-      "summary": "The Apollo program, also known as Project Apollo, was the United States human spaceflight program led by NASA, which landed the first humans on the Moon in 1969. Apollo was conceived in 1960 in the Dwight D.",
+      "title": "1965: Frank Herbert's novel, Dune, is published for the first time. It was named as the world's best-selling science fiction novel in 2003.",
+      "summary": "Franklin Patrick Herbert Jr. was an American science-fiction author, best known for his 1965 novel Dune and five sequels to it. He also wrote short stories and worked as a newspaper journalist, photographer, book reviewer, ecological consultant, and lecturer.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Frank_Herbert",
       "kidSuitable": true
     },
     {
-      "id": "otd-0731-1964-2",
-      "date": "2026-07-31T08:11:37.789Z",
+      "id": "otd-0801-1957-2",
+      "date": "2026-08-01T07:39:24.273Z",
       "category": "on-this-day",
-      "title": "1964: Ranger program: Ranger 7 sends back the first close-up photographs of the moon, with images 1,000 times clearer than anything ever seen from earth-bound telescopes.",
-      "summary": "The Ranger program was a series of uncrewed space missions by the United States in the 1960s whose objective was to obtain the first close-up images of the surface of the Moon.",
+      "title": "1957: The United States and Canada form the North American Aerospace Defense Command (NORAD).",
+      "summary": "The North American Aerospace Defense Command is a bi-national mutual defense organization in Canada and the United States. Established 12 September 1957 as the North American Air Defense Command, NORAD is headquartered at Peterson Space Force Base in Colorado, which also serves a…",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Ranger_program",
+      "sourceUrl": "https://en.wikipedia.org/wiki/NORAD",
       "kidSuitable": true
     }
   ]
