@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T07:39:24.402Z",
-  "date": "2026-08-01",
+  "generatedAt": "2026-08-02T07:42:02.199Z",
+  "date": "2026-08-02",
   "entries": [
     {
       "id": "eonet-EONET_21965",
@@ -56,20 +56,6 @@
       "kidSuitable": true
     },
     {
-      "id": "ll2-e7e55b53-6f69-4c22-9fc5-df00df653a3f",
-      "date": "2026-08-01T03:08:43Z",
-      "category": "launch",
-      "title": "Falcon 9 Block 5 | Starlink Group 17-52",
-      "summary": "Lifts off Aug 1, 03:08 UTC from Vandenberg SFB, CA, USA.",
-      "lat": 34.632,
-      "lon": -120.611,
-      "bodyId": "earth",
-      "sourceName": "Launch Library 2",
-      "sourceUrl": "https://spacelaunchnow.me/launch/falcon-9-block-5-starlink-group-17-52",
-      "startsAt": "2026-08-01T03:08:43Z",
-      "kidSuitable": true
-    },
-    {
       "id": "ll2-12b9454b-d48b-4fd5-9c11-17c18f45dafe",
       "date": "2026-08-04T08:50:00Z",
       "category": "launch",
@@ -98,42 +84,56 @@
       "kidSuitable": true
     },
     {
-      "id": "otd-0801-1984-0",
-      "date": "2026-08-01T07:39:24.273Z",
-      "category": "on-this-day",
-      "title": "1984: Commercial peat-cutters discover the preserved bog body of a man, called Lindow Man, at Lindow Moss, Cheshire, England.",
-      "summary": "Peat is an accumulation of partially decayed vegetation or organic matter. It is unique to natural areas called peatlands, bogs, mires, moors, or muskegs.",
-      "lat": null,
-      "lon": null,
+      "id": "ll2-d46cab82-dcf5-4d70-b698-d7bead7f638c",
+      "date": "2026-08-05T02:35:00Z",
+      "category": "launch",
+      "title": "Smart Dragon 3 | Unknown Payload",
+      "summary": "Lifts off Aug 5, 02:35 UTC from Haiyang Oriental Spaceport.",
+      "lat": 36.631333,
+      "lon": 121.198361,
       "bodyId": "earth",
-      "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Peat",
+      "sourceName": "Launch Library 2",
+      "sourceUrl": "https://spacelaunchnow.me/launch/smart-dragon-3-unknown-payload",
+      "startsAt": "2026-08-05T02:35:00Z",
       "kidSuitable": true
     },
     {
-      "id": "otd-0801-1965-1",
-      "date": "2026-08-01T07:39:24.273Z",
+      "id": "otd-0802-1991-0",
+      "date": "2026-08-02T07:41:59.679Z",
       "category": "on-this-day",
-      "title": "1965: Frank Herbert's novel, Dune, is published for the first time. It was named as the world's best-selling science fiction novel in 2003.",
-      "summary": "Franklin Patrick Herbert Jr. was an American science-fiction author, best known for his 1965 novel Dune and five sequels to it. He also wrote short stories and worked as a newspaper journalist, photographer, book reviewer, ecological consultant, and lecturer.",
+      "title": "1991: Space Shuttle Atlantis is launched on STS-43 to deploy the TDRS-5 satellite.",
+      "summary": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Frank_Herbert",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
       "kidSuitable": true
     },
     {
-      "id": "otd-0801-1957-2",
-      "date": "2026-08-01T07:39:24.273Z",
+      "id": "otd-0802-1932-1",
+      "date": "2026-08-02T07:41:59.679Z",
       "category": "on-this-day",
-      "title": "1957: The United States and Canada form the North American Aerospace Defense Command (NORAD).",
-      "summary": "The North American Aerospace Defense Command is a bi-national mutual defense organization in Canada and the United States. Established 12 September 1957 as the North American Air Defense Command, NORAD is headquartered at Peterson Space Force Base in Colorado, which also serves a…",
+      "title": "1932: The positron (antiparticle of the electron) is discovered by Carl D. Anderson.",
+      "summary": "The positron or antielectron is the particle with an electric charge of +1e, a spin of 1/2 ħ, and the same mass as an electron. It is the antiparticle of the electron. When a positron collides with an electron, annihilation occurs.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/NORAD",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Positron",
+      "kidSuitable": true
+    },
+    {
+      "id": "otd-0802-2005-2",
+      "date": "2026-08-02T07:41:59.679Z",
+      "category": "on-this-day",
+      "title": "2005: Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames, leaving 12 injuries and no fatalities.",
+      "summary": "Air France Flight 358 was a regularly scheduled international flight from Charles de Gaulle Airport in Paris, France, to Toronto Pearson International Airport in Ontario, Canada.",
+      "lat": null,
+      "lon": null,
+      "bodyId": "earth",
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Air_France_Flight_358",
       "kidSuitable": true
     }
   ]
