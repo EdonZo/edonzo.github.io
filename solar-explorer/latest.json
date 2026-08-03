@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T07:42:02.199Z",
-  "date": "2026-08-02",
+  "generatedAt": "2026-08-03T08:44:02.994Z",
+  "date": "2026-08-03",
   "entries": [
     {
       "id": "eonet-EONET_21965",
@@ -98,42 +98,42 @@
       "kidSuitable": true
     },
     {
-      "id": "otd-0802-1991-0",
-      "date": "2026-08-02T07:41:59.679Z",
+      "id": "otd-0803-2023-0",
+      "date": "2026-08-03T08:44:02.916Z",
       "category": "on-this-day",
-      "title": "1991: Space Shuttle Atlantis is launched on STS-43 to deploy the TDRS-5 satellite.",
-      "summary": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States.",
+      "title": "2023: Worst floods hit major parts of Slovenia.",
+      "summary": "In August 2023, major floods occurred in large part of Slovenia and neighbouring areas of Austria and Croatia due to heavy rain. Amongst others, the level of rivers Sava, Mur and Drava was exceptionally high.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2023_Slovenia_floods",
       "kidSuitable": true
     },
     {
-      "id": "otd-0802-1932-1",
-      "date": "2026-08-02T07:41:59.679Z",
+      "id": "otd-0803-2019-1",
+      "date": "2026-08-03T08:44:02.916Z",
       "category": "on-this-day",
-      "title": "1932: The positron (antiparticle of the electron) is discovered by Carl D. Anderson.",
-      "summary": "The positron or antielectron is the particle with an electric charge of +1e, a spin of 1/2 ħ, and the same mass as an electron. It is the antiparticle of the electron. When a positron collides with an electron, annihilation occurs.",
+      "title": "2019: Six hundred protesters, including opposition leader Lyubov Sobol, are arrested in an election protest in Moscow, Russia.",
+      "summary": "Lyubov Eduardovna Sobol is a Russian opposition politician, lawyer and a member of the Russian Opposition Coordination Council (2012–2013). She produces the YouTube channel \"Navalny Live\" of Alexei Navalny.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Positron",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lyubov_Sobol",
       "kidSuitable": true
     },
     {
-      "id": "otd-0802-2005-2",
-      "date": "2026-08-02T07:41:59.679Z",
+      "id": "otd-0803-2014-2",
+      "date": "2026-08-03T08:44:02.916Z",
       "category": "on-this-day",
-      "title": "2005: Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames, leaving 12 injuries and no fatalities.",
-      "summary": "Air France Flight 358 was a regularly scheduled international flight from Charles de Gaulle Airport in Paris, France, to Toronto Pearson International Airport in Ontario, Canada.",
+      "title": "2014: The genocide of Yazidis by ISIL begins.",
+      "summary": "The Yazidi genocide also known as the 74th firman by Yazidis, was perpetrated by the Islamic State in Iraq and Syria between 2014 and 2017. It was characterized by massacres, genocidal rape, and forced conversions to Islam.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Air_France_Flight_358",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yazidi_genocide",
       "kidSuitable": true
     }
   ]
