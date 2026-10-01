@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T11:13:13.740Z",
-  "date": "2026-09-30",
+  "generatedAt": "2026-10-01T11:40:55.795Z",
+  "date": "2026-10-01",
   "entries": [
     {
       "id": "eonet-EONET_24909",
@@ -18,12 +18,12 @@
     },
     {
       "id": "eonet-EONET_24875",
-      "date": "2026-09-30T06:00:00Z",
+      "date": "2026-10-01T06:00:00Z",
       "category": "natural-event",
       "title": "Hurricane Rachel",
       "summary": "Severe storm — ongoing, tracked since Sep 27, 2026.",
-      "lat": 17.3,
-      "lon": -106.9,
+      "lat": 19.3,
+      "lon": -109.1,
       "bodyId": "earth",
       "sourceName": "NASA EONET",
       "sourceUrl": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
@@ -98,42 +98,42 @@
       "kidSuitable": true
     },
     {
-      "id": "otd-0930-1994-0",
-      "date": "2026-09-30T11:13:13.516Z",
+      "id": "otd-1001-1958-0",
+      "date": "2026-10-01T11:40:53.907Z",
       "category": "on-this-day",
-      "title": "1994: Space Shuttle Endeavour is launched on STS-68.",
-      "summary": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011.",
+      "title": "1958: The National Advisory Committee for Aeronautics is replaced by NASA.",
+      "summary": "The National Advisory Committee for Aeronautics (NACA) was a United States federal agency that was founded on March 3, 1915, to undertake, promote, and institutionalize aeronautical research.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+      "sourceUrl": "https://en.wikipedia.org/wiki/National_Advisory_Committee_for_Aeronautics",
       "kidSuitable": true
     },
     {
-      "id": "otd-0930-2016-1",
-      "date": "2026-09-30T11:13:13.516Z",
+      "id": "otd-1001-2024-1",
+      "date": "2026-10-01T11:40:53.907Z",
       "category": "on-this-day",
-      "title": "2016: Hurricane Matthew becomes a Category 5 hurricane, making it the strongest hurricane to form in the Caribbean Sea since 2007.",
-      "summary": "Hurricane Matthew was a powerful and devastating tropical cyclone which caused catastrophic damage and a humanitarian crisis in Haiti, as well as widespread devastation across Cuba, the Bahamas, and the southeastern United States.",
+      "title": "2024: Israel invaded Southern Lebanon, marking the fifth Israeli invasion of Lebanon since 1978.",
+      "summary": "Israel, officially the State of Israel, is a country in the Southern Levant region of West Asia. It is bordered by Lebanon to the north, Syria to the northeast, Jordan to the east, and Egypt to the southwest.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Hurricane_Matthew",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Israel",
       "kidSuitable": true
     },
     {
-      "id": "otd-0930-2016-2",
-      "date": "2026-09-30T11:13:13.516Z",
+      "id": "otd-1001-2021-2",
+      "date": "2026-10-01T11:40:53.907Z",
       "category": "on-this-day",
-      "title": "2016: Two paintings with a combined value of $100 million are recovered after having been stolen from the Van Gogh Museum in 2002.",
-      "summary": "The Van Gogh Museum is a Dutch art museum dedicated to the works of Vincent van Gogh and his contemporaries in the Museum Square in Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw.",
+      "title": "2021: The 2020 World Expo in Dubai begins. Its opening was originally scheduled for 20 October 2020 but was delayed due to the COVID-19 pandemic.",
+      "summary": "Expo 2020 was a World Expo hosted in Dubai, United Arab Emirates, from 1 October 2021 to 31 March 2022.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Van_Gogh_Museum",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Expo_2020",
       "kidSuitable": true
     }
   ]
