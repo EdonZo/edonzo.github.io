@@ -1,22 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T09:54:20.148Z",
-  "date": "2026-10-25",
+  "generatedAt": "2026-10-26T11:16:08.754Z",
+  "date": "2026-10-26",
   "entries": [
-    {
-      "id": "usgs-us6000u4r9",
-      "date": "2026-10-25T02:09:23.818Z",
-      "category": "earthquake",
-      "title": "M6.5 earthquake — Bonin Islands, Japan region",
-      "summary": "A magnitude 6.5 earthquake struck Bonin Islands, Japan region.",
-      "lat": 27.7953,
-      "lon": 139.6184,
-      "bodyId": "earth",
-      "sourceName": "USGS",
-      "sourceUrl": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
-      "magnitude": 6.5,
-      "kidSuitable": true
-    },
     {
       "id": "eonet-EONET_25590",
       "date": "2026-10-22T21:45:00Z",
@@ -32,12 +18,12 @@
     },
     {
       "id": "eonet-EONET_25589",
-      "date": "2026-10-25T00:00:00Z",
+      "date": "2026-10-26T06:00:00Z",
       "category": "natural-event",
       "title": "Hurricane Vance",
       "summary": "Severe storm — ongoing, tracked since Oct 21, 2026.",
-      "lat": 13.5,
-      "lon": -103.3,
+      "lat": 15.2,
+      "lon": -105,
       "bodyId": "earth",
       "sourceName": "NASA EONET",
       "sourceUrl": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
@@ -70,20 +56,6 @@
       "kidSuitable": true
     },
     {
-      "id": "ll2-6b95bcc8-1f88-4539-84fe-f63630138766",
-      "date": "2026-10-25T02:03:00Z",
-      "category": "launch",
-      "title": "Long March 8A | SatNet LEO Group 28",
-      "summary": "Lifts off Oct 25, 02:03 UTC from Wenchang Space Launch Site, People's Republic of China.",
-      "lat": 19.597275,
-      "lon": 110.930753,
-      "bodyId": "earth",
-      "sourceName": "Launch Library 2",
-      "sourceUrl": "https://spacelaunchnow.me/launch/long-march-8a-satnet-leo-group-28",
-      "startsAt": "2026-10-25T02:03:00Z",
-      "kidSuitable": true
-    },
-    {
       "id": "ll2-e2886a96-5ce9-4f45-872f-4e25a00be837",
       "date": "2026-10-27T04:45:00Z",
       "category": "launch",
@@ -112,10 +84,37 @@
       "kidSuitable": true
     },
     {
-      "id": "otd-1025-2001-0",
-      "date": "2026-10-25T09:54:20.119Z",
+      "id": "ll2-20d5676e-111b-40e3-8923-b218c3665ca2",
+      "date": "2026-10-30T17:00:00Z",
+      "category": "launch",
+      "title": "GSLV Mk II | IRNSS-1L (NVS-03)",
+      "summary": "Lifts off Oct 30, 17:00 UTC from Satish Dhawan Space Centre, India.",
+      "lat": 13.7199,
+      "lon": 80.2304,
+      "bodyId": "earth",
+      "sourceName": "Launch Library 2",
+      "sourceUrl": "https://spacelaunchnow.me/launch/gslv-mk-ii-irnss-1l-nvs-03",
+      "startsAt": "2026-10-30T17:00:00Z",
+      "kidSuitable": true
+    },
+    {
+      "id": "otd-1026-1968-0",
+      "date": "2026-10-26T11:16:06.888Z",
       "category": "on-this-day",
-      "title": "2001: Microsoft releases Windows XP, which becomes one of Microsoft's most successful operating systems.",
+      "title": "1968: Space Race: The Soyuz 3 mission achieves the first Soviet space rendezvous.",
+      "summary": "The Space Race was a 20th-century competition between the Cold War rivals, the United States and the Soviet Union, to achieve superior spaceflight capability.",
+      "lat": null,
+      "lon": null,
+      "bodyId": "earth",
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Race",
+      "kidSuitable": true
+    },
+    {
+      "id": "otd-1026-2012-1",
+      "date": "2026-10-26T11:16:06.888Z",
+      "category": "on-this-day",
+      "title": "2012: Microsoft made a public release of Windows 8 and made it available on new PCs.",
       "summary": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud compu…",
       "lat": null,
       "lon": null,
@@ -125,29 +124,16 @@
       "kidSuitable": true
     },
     {
-      "id": "otd-1025-1990-1",
-      "date": "2026-10-25T09:54:20.119Z",
+      "id": "otd-1026-2004-2",
+      "date": "2026-10-26T11:16:06.888Z",
       "category": "on-this-day",
-      "title": "1990: The Kazakh Soviet Socialist Republic declares its sovereignty from the Soviet Union.",
-      "summary": "The Kazakh Soviet Socialist Republic, also known as Soviet Kazakhstan, the Kazakh SSR, KSSR, or simply Kazakhstan, was one of the constituent republics of the Soviet Union (USSR) from 1936 to 1991.",
+      "title": "2004: Rockstar Games releases Grand Theft Auto: San Andreas for the PlayStation 2 in North America, which sold 12 million units for the PS2, becoming the console's best-selling video game.",
+      "summary": "Rockstar Games, Inc. is an American video game publisher based in New York City. The company was established in December 1998 as a subsidiary of Take-Two Interactive, using the assets Take-Two had previously acquired from BMG Interactive.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Kazakh_Soviet_Socialist_Republic",
-      "kidSuitable": true
-    },
-    {
-      "id": "otd-1025-1989-2",
-      "date": "2026-10-25T09:54:20.119Z",
-      "category": "on-this-day",
-      "title": "1989: The first leg of the 1989 Supertaça Cândido de Oliveira is held at the Estádio da Luz in Lisbon, Portugal.",
-      "summary": "The 1989 Supertaça Cândido de Oliveira was the 11th edition of the Supertaça Cândido de Oliveira, the annual Portuguese football season-opening match contested by the winners of the previous season's top league and cup competitions.",
-      "lat": null,
-      "lon": null,
-      "bodyId": "earth",
-      "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/1989_Superta%C3%A7a_C%C3%A2ndido_de_Oliveira",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rockstar_Games",
       "kidSuitable": true
     }
   ]
