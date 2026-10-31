@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T11:27:45.490Z",
-  "date": "2026-10-30",
+  "generatedAt": "2026-10-31T10:58:43.117Z",
+  "date": "2026-10-31",
   "entries": [
     {
       "id": "eonet-EONET_25827",
@@ -71,16 +71,16 @@
     },
     {
       "id": "ll2-57ce0a39-d035-4f16-a418-bd6108f78199",
-      "date": "2026-10-31T03:48:00Z",
+      "date": "2026-10-31T04:04:34Z",
       "category": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "summary": "Lifts off Oct 31, 03:48 UTC from Vandenberg SFB, CA, USA.",
+      "summary": "Lifts off Oct 31, 04:04 UTC from Vandenberg SFB, CA, USA.",
       "lat": 34.632,
       "lon": -120.611,
       "bodyId": "earth",
       "sourceName": "Launch Library 2",
       "sourceUrl": "https://spacelaunchnow.me/launch/falcon-9-block-5-starlink-group-15-18",
-      "startsAt": "2026-10-31T03:48:00Z",
+      "startsAt": "2026-10-31T04:04:34Z",
       "kidSuitable": true
     },
     {
@@ -98,42 +98,42 @@
       "kidSuitable": true
     },
     {
-      "id": "otd-1030-1985-0",
-      "date": "2026-10-30T11:27:45.314Z",
+      "id": "otd-1031-2000-0",
+      "date": "2026-10-31T10:58:38.080Z",
       "category": "on-this-day",
-      "title": "1985: Space Shuttle Challenger lifts off for mission STS-61-A, its final successful mission.",
-      "summary": "Space Shuttle Challenger (OV-099) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the commanding ship of a nineteenth-century scientific expedition that traveled the world, Challenger was the second Space Shuttle orbiter to fly…",
+      "title": "2000: Soyuz TM-31 launches, carrying the first resident crew to the International Space Station. The ISS has been crewed continuously since then.",
+      "summary": "Soyuz TM-31 was the first Soyuz spaceflight to dock with the International Space Station (ISS). The spacecraft carried the members of Expedition 1, the first long-duration ISS crew.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Soyuz_TM-31",
       "kidSuitable": true
     },
     {
-      "id": "otd-1030-2023-1",
-      "date": "2026-10-30T11:27:45.314Z",
+      "id": "otd-1031-2020-1",
+      "date": "2026-10-31T10:58:38.080Z",
       "category": "on-this-day",
-      "title": "2023: First rescue of a prisoner during the Israeli invasion of Gaza.",
-      "summary": "The rescue of Ori Megidish was an Israel Defense Forces military operation on 30 October 2023 during the Gaza war that led to the rescue of Israeli soldier Ori Magidish from Hamas imprisonment in Gaza to Israel.",
+      "title": "2020: Berlin Brandenburg Airport opens its doors after nearly 10 years of delays due to construction issues and project corruption.",
+      "summary": "Berlin Brandenburg Airport is an international airport in Schönefeld, just south of the German capital and state of Berlin, in the state of Brandenburg.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Rescue_of_Ori_Megidish",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport",
       "kidSuitable": true
     },
     {
-      "id": "otd-1030-2020-2",
-      "date": "2026-10-30T11:27:45.314Z",
+      "id": "otd-1031-2011-2",
+      "date": "2026-10-31T10:58:38.080Z",
       "category": "on-this-day",
-      "title": "2020: A magnitude 7.0 earthquake strikes the Aegean Sea between Greece and Turkey, triggering a tsunami. At least 119 people die mainly due to collapsed buildings.",
-      "summary": "An earthquake with a moment magnitude of 7.0 occurred on 30 October 2020 about 14 km (8.7 mi) northeast of the Greek island of Samos. Although Samos was closest to the epicentre, it was the large Turkish city İzmir, 70 km (43 mi) northeast that was heavily affected—more than 700…",
+      "title": "2011: The global population of humans reaches seven billion. This day is now recognized by the United Nations as the Day of Seven Billion.",
+      "summary": "In world demographics, the world population is the total number of humans currently alive. It was estimated by the United Nations to have exceeded 8 billion (8,000,000,000) on November 15, 2022.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/2020_Aegean_Sea_earthquake",
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_population",
       "kidSuitable": true
     }
   ]
