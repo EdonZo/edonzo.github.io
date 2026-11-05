@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T13:05:22.681Z",
-  "date": "2026-11-04",
+  "generatedAt": "2026-11-05T13:18:24.388Z",
+  "date": "2026-11-05",
   "entries": [
     {
       "id": "eonet-EONET_25964",
@@ -98,42 +98,42 @@
       "kidSuitable": true
     },
     {
-      "id": "otd-1104-1847-0",
-      "date": "2026-11-04T13:05:20.751Z",
+      "id": "otd-1105-2013-0",
+      "date": "2026-11-05T13:18:20.269Z",
       "category": "on-this-day",
-      "title": "1847: Sir James Young Simpson, a Scottish medical doctor, discovers the anaesthetic properties of chloroform.",
-      "summary": "Sir James Young Simpson, 1st Baronet was a Scottish obstetrician and a significant figure in the history of medicine. He was the first physician to demonstrate the anaesthetic properties of chloroform in humans and helped to popularize its use in medicine.",
+      "title": "2013: India launches the Mars Orbiter Mission, its first interplanetary probe.",
+      "summary": "Mars Orbiter Mission (MOM), unofficially known as Mangalyaan, is a space probe orbiting Mars since 24 September 2014. It was launched on 5 November 2013 by the Indian Space Research Organisation (ISRO).",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/James_Young_Simpson",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mars_Orbiter_Mission",
       "kidSuitable": true
     },
     {
-      "id": "otd-1104-2010-1",
-      "date": "2026-11-04T13:05:20.751Z",
+      "id": "otd-1105-2007-1",
+      "date": "2026-11-05T13:18:20.269Z",
       "category": "on-this-day",
-      "title": "2010: Qantas Flight 32, an Airbus A380, suffers an uncontained engine failure over Indonesia shortly after taking off from Singapore, crippling the jet. The crew manage to safely return to Singapore, saving all 469 passengers and crew.",
-      "summary": "Qantas Flight 32 was a regularly scheduled passenger flight from London to Sydney via Singapore. On 4 November 2010, the Airbus A380 operating the route suffered an uncontained failure in one of its four Rolls-Royce Trent 900 engines.",
+      "title": "2007: China's first lunar satellite, Chang'e 1, goes into orbit around the Moon.",
+      "summary": "Chang'e 1 was an uncrewed Chinese lunar-orbiting spacecraft, part of the first phase of the Chinese Lunar Exploration Program. The spacecraft was named after the Chinese Moon goddess, Chang'e.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_32",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chang'e_1",
       "kidSuitable": true
     },
     {
-      "id": "otd-1104-2008-2",
-      "date": "2026-11-04T13:05:20.751Z",
+      "id": "otd-1105-2024-2",
+      "date": "2026-11-05T13:18:20.269Z",
       "category": "on-this-day",
-      "title": "2008: Barack Obama becomes the first person of biracial or African-American descent to be elected as President of the United States.",
-      "summary": "Barack Hussein Obama II is an American retired politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to serve as president.",
+      "title": "2024: Donald Trump becomes the first president of the United States to be elected to a non-consecutive second term in 132 years, since Grover Cleveland won the 1892 election.",
+      "summary": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
       "lat": null,
       "lon": null,
       "bodyId": "earth",
       "sourceName": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
       "kidSuitable": true
     }
   ]
